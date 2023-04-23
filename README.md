@@ -9,6 +9,8 @@ The first version of The Conflict was made
 
 - simple title & GUI
 
+![gameplay1](https://user-images.githubusercontent.com/47773655/233850142-78459f7f-e4e0-40da-abae-17ba049fc35a.png)
+
 2021.04
 
 The enhanced version was made
