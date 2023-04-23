@@ -1,0 +1,68 @@
+{ "unit_source":
+[
+    {
+        "code": "U_1",
+        "name": "신병",
+        "cost": 10,
+        "hp": 10,
+        "damage": 1,
+        "speed": 1,
+        "range": 0.5,
+        "delay": 1,
+        "cool": 2,
+        "description": " 막 전장에 투입된 신병입니다."
+    },
+
+    {
+        "code": "U_2",
+        "name": "창병",
+        "cost": 15,
+        "hp": 8,
+        "damage": 2.5,
+        "speed": 1,
+        "range": 0.5,
+        "delay": 1,
+        "cool": 2,
+        "description": " 긴 창으로 적들보다 공격권을 먼저 가져갈 수 있는 병사압니다."
+    },
+
+    {
+        "code": "U_3",
+        "name": "사냥꾼",
+        "cost": 20,
+        "hp": 7,
+        "damage": 2.5,
+        "speed": 1.5,
+        "range": 2,
+        "delay": 1.5,
+        "cool": 3,
+        "description": " 전쟁이 일어났을 때, 샤냥꾼들은 숲에서 나와 자신의 왕국을 지키기 위해 총을 집어들었습니다."
+    },
+
+    {
+        "code": "U_4",
+        "name": "방패병",
+        "cost": 20,
+        "hp": 25,
+        "damage": 0,
+        "speed": 0.8,
+        "range": 1,
+        "delay": 0,
+        "cool": 3,
+        "description": " 공격하지 않는 대신, 높은 체력을 가지고 있습니다.\n이들은 숭고한 희생정신으로 전설을 향해 올라가려는 도전자들의 수문장 역할을 해왔습니다."
+    },
+
+    {
+        "code": "U_5",
+        "name": "마법사",
+        "cost": 25,
+        "hp": 7,
+        "damage": 3.5,
+        "speed": 1,
+        "range": 2.5,
+        "delay": 2,
+        "cool": 3,
+        "description": " 비록 풋내기 마법사지만, 마법을 다룰 수 있는 것과 없는 것의 차이는 확실히 보여줄 수 있습니다."
+    }
+]
+}

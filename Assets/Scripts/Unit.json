@@ -1,0 +1,29 @@
+{ "unit_list":
+[
+    {
+        "code": "U_1",
+        "name": "신병",
+        "cost": 10,
+        "hp": 10,
+        "damage": 1,
+        "speed": 1,
+        "range": 0.5,
+        "delay": 1,
+        "cool": 2,
+        "description": "대충 신병 설명하는 글"
+    },
+
+    {
+        "code": "U_2",
+        "name": "창병",
+        "cost": 15,
+        "hp": 8,
+        "damage": 1,
+        "speed": 1,
+        "range": 0.5,
+        "delay": 1,
+        "cool": 2,
+        "description": "대충 창병 설명하는 글"
+    }
+]
+}
