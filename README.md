@@ -1,7 +1,9 @@
 # TheConflict
 2D-Strategy game project since 2018 made with Unity
 
-2017.09
+![thumbnail_1](https://user-images.githubusercontent.com/47773655/233850287-2fc8a590-42de-4b4b-a465-aa9e4f3148ad.JPG)
+
+## 2017.09
 
 The first version of The Conflict was made
 
@@ -11,7 +13,7 @@ The first version of The Conflict was made
 
 ![gameplay1](https://user-images.githubusercontent.com/47773655/233850142-78459f7f-e4e0-40da-abae-17ba049fc35a.png)
 
-2021.04
+## 2021.04
 
 The enhanced version was made
 
@@ -22,3 +24,5 @@ The enhanced version was made
 - Gold income upgrade implemented
 
 - Lobby scene implemented
+
+![gameplay2](https://user-images.githubusercontent.com/47773655/233850545-55dd9a8b-2c96-49d4-b42a-56301a96eeba.PNG)
