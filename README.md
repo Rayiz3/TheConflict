@@ -27,4 +27,6 @@ The enhanced version was made
 
 ![gameplay2](https://user-images.githubusercontent.com/47773655/233850545-55dd9a8b-2c96-49d4-b42a-56301a96eeba.PNG)
 
-You can see the gameplay video in here https://www.youtube.com/watch?v=jyGaVfQbgUI&t=99s&ab_channel=%EC%9D%B4%EB%8F%84%EC%9A%B4
+You can see the gameplay video in here
+
+https://www.youtube.com/watch?v=jyGaVfQbgUI&t=99s&ab_channel=%EC%9D%B4%EB%8F%84%EC%9A%B4
